@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul8_1302220009", "modul8_1302220009\modul8_1302220009.csproj", "{21763365-C43F-4BCA-8975-BC77C0C4C00B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20C30034-5F2A-4D78-8767-92D6CDE14E80}"
+	ProjectSection(SolutionItems) = preProject
+		modul8_1302220009\bank_transfer_config.json = modul8_1302220009\bank_transfer_config.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

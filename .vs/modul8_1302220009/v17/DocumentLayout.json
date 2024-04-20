@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\modul8_1302220009\\modul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|solutionrelative:modul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|solutionrelative:modul8_1302220009\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|solutionrelative:modul8_1302220009\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|solutionrelative:modul8_1302220009\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\modul8_1302220009\\modul8_1302220009\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21763365-C43F-4BCA-8975-BC77C0C4C00B}|modul8_1302220009\\modul8_1302220009.csproj|solutionrelative:modul8_1302220009\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "modul8_1302220009\\bank_transfer_config.json",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\bank_transfer_config.json",
+              "RelativeToolTip": "modul8_1302220009\\bank_transfer_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:29:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "modul8_1302220009\\BankTransferConfig.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\BankTransferConfig.cs",
+              "RelativeToolTip": "modul8_1302220009\\BankTransferConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:24:47.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\Transfer.cs",
+              "RelativeDocumentMoniker": "modul8_1302220009\\Transfer.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\Transfer.cs",
+              "RelativeToolTip": "modul8_1302220009\\Transfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:24:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\UIConfig.cs",
+              "RelativeDocumentMoniker": "modul8_1302220009\\UIConfig.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\UIConfig.cs",
+              "RelativeToolTip": "modul8_1302220009\\UIConfig.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:21:09.283Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "modul8_1302220009\\Program.cs",
               "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\modul8_1302220009\\modul8_1302220009\\Program.cs",
               "RelativeToolTip": "modul8_1302220009\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:35:50.714Z",
               "EditorCaption": ""
